@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Haider Naqvi</h1>
-<h3 align="center">A A results driven Data professional with interest in Data Science and Analytics</h3>
+<h3 align="center">A results driven Data professional with interest in Data Science and Analytics</h3>
 
 - 📫 How to reach me **zainhyder34@outlook.com**
 
