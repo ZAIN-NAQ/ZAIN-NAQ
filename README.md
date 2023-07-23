@@ -1,6 +1,6 @@
- 👋  Hi, I'm Zain Haider Naqvi
-- 📫 How to reach me: zainhyder34@outlook.com
-- ⚡ A results driven MSc Data Science Graduate with interest in data analysis, statistical
+👋  Hi, I'm Zain Haider Naqvi
+📫 How to reach me: zainhyder34@outlook.com
+⚡ A results driven MSc Data Science Graduate with interest in data analysis, statistical
 analysis, time series forecasting and machine learning. Proficient in using business
 intelligence and statistical tools (Power BI and MS Excel ), data programming (Python,
 SQL and VBA), and delivering concise statistical and business reports to internal and
