@@ -1,4 +1,4 @@
-  👋  Hi, I'm Zain Haider Naqvi
+👋  Hi, I'm Zain Haider Naqvi
 - ⚡ A results driven MSc Data Science graduate with interest in data analysis, statistical
 analysis, time series forecasting and machine learning. Proficient in using business
 intelligence and statistical tools (Power BI and MS Excel ), data programming (Python,
